@@ -17,13 +17,13 @@
 #### Tools
 ![Tools](https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,idea)
 
+## ☁️ Hosting
+![Hosting](https://skillicons.dev/icons?i=vercel,hetzner)
+
 ## 🚀 Hosted apps
 | Project | Tech Stack | Status | Live |
 |--------|------------|--------|------|
 | Gym Managment Web App | React + .NET + PostgreSQL | ![LIVE](https://img.shields.io/badge/status-live-brightgreen) | 🔗 [dziarski-trening.pl](https://dziarski-trening.pl/) |
-
-## ☁️ Hosting
-![Hosting](https://skillicons.dev/icons?i=vercel,hetzner)
 
 
 ## 📫 Contact
