@@ -9,16 +9,13 @@
 ![Backend](https://skillicons.dev/icons?i=dotnet,spring)
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react)
+![Frontend](https://skillicons.dev/icons?i=react,vite,js)
 
 #### Database
-![Database](https://skillicons.dev/icons?i=postgres)
+![Database](https://skillicons.dev/icons?i=postgres,mongodb)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,idea)
-
-## ☁️ Hosting
-![Hosting](https://skillicons.dev/icons?i=vercel,hetzner)
+![Tools](https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,idea,vercel)
 
 ## 🚀 Hosted apps
 | Project | Tech Stack | Status | Live |
