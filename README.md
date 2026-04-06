@@ -20,7 +20,7 @@
 ## 🚀 Hosted apps
 | Project | Tech Stack | Status | Live |
 |--------|------------|--------|------|
-| Gym Managment Web App | React, .NET, PostgreSQL | ![LIVE](https://img.shields.io/badge/status-live-brightgreen) | 🔗 dziarski-trening.pl |
+| Gym Managment Web App | React + .NET + PostgreSQL | ![LIVE](https://img.shields.io/badge/status-live-brightgreen) | 🔗 [dziarski-trening.pl](https://dziarski-trening.pl/) |
 
 
 ## 📫 Contact
