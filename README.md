@@ -22,6 +22,9 @@
 |--------|------------|--------|------|
 | Gym Managment Web App | React + .NET + PostgreSQL | ![LIVE](https://img.shields.io/badge/status-live-brightgreen) | 🔗 [dziarski-trening.pl](https://dziarski-trening.pl/) |
 
+## ☁️ Hosting
+![Hosting](https://skillicons.dev/icons?i=vercel,hetzner)
+
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/daniel-olech-752a193bb
