@@ -15,7 +15,7 @@
 ![Database](https://skillicons.dev/icons?i=postgres)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,postman)
+![Tools](https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,idea)
 
 ## 🚀 Hosted apps
 | Project | Tech Stack | Status | Live |
