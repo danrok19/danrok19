@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 my name is Daniel
 
-<!--
-**danrok19/danrok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Graduate in Computer Science
+- 💻 Lately working with .NET & React
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+#### Backend
+![Backend](https://skillicons.dev/icons?i=dotnet,spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend
+![Frontend](https://skillicons.dev/icons?i=react)
+
+#### Database
+![Database](https://skillicons.dev/icons?i=postgres)
+
+#### Tools
+![Tools](https://skillicons.dev/icons?i=git,postman)
+
+## 🚀 Hosted apps
+| Project | Tech Stack | Status | Live |
+|--------|------------|--------|------|
+| Gym Managment Web App | React, .NET, PostgreSQL | ![LIVE](https://img.shields.io/badge/status-live-brightgreen) | 🔗 dziarski-trening.pl |
+
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/daniel-olech-752a193bb
+
